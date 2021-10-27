@@ -1,0 +1,8 @@
+JUNO:
+    priceUnit:
+        - USD
+    decimalPlace:
+        - 2
+    updateFreq: 60
+    discordBotKey: <bot token id>
+    guildId: <channel id>
